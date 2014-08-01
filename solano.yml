@@ -1,6 +1,6 @@
 :tddium:
   :hooks: 
-    :pre: npm install && npm install bower && ./node_modules/bower/bin/bower install && grunt build
+    :pre: npm install && npm install bower && ./node_modules/bower/bin/bower install
   :nodejs: 
     :version: 0.10.13 
   :tests:
